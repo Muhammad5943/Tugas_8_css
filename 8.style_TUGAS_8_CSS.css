@@ -1,0 +1,25 @@
+body {
+  background-image: url('/Tugas_8_css/tugas5css1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.satu {
+    background-color: #ffffff;
+    background-image: url('/Tugas_8_css/avocado.jpg');
+    background-repeat: repeat-y;
+    overflow-x:scroll;
+    overflow-y:scroll;
+}
+
+.p1 {
+  color: #191ef0;
+}
+
+.p2 {
+  color: #28b300;
+}
+
+.p3 {
+  color: #ff0505;
+}
